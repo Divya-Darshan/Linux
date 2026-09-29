@@ -1,4 +1,4 @@
-# NyarchLinux
+<!---# NyarchLinux
 <div align="center">
    <img src="https://user-images.githubusercontent.com/67018178/219306815-448eea25-d0f3-4512-8d4f-f8167e21841a.png" width="300px" style="margin:auto;"/>
 
@@ -33,4 +33,4 @@ Please note that we want to make the different spins as coherent as possible, so
 For example, in the Gnome spin Komikku, a GTK application to read mangas, is preinstalled. In a KDE Plasma spin, if there is a similar application written using QT, it should be included.
 
 ## Mirror lists: 
-[Ezmirror](https://ezmirror.xyz/nyarch/) Tier 0 
+[Ezmirror](https://ezmirror.xyz/nyarch/) Tier 0 --->
