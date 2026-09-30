@@ -337,12 +337,12 @@ kitty
 vte3
 bazaar
 gnome-console
-gnome-terminal-transparency
+
 plymouth
 libdrm
 pango
 python-numpy
-gearlever
+
 timeshift
 flatseal
 # Nyarch repo 
