@@ -12,13 +12,10 @@ flatpak install flathub it.mijorus.gearlever
 
 cd flatpaks
 rm -rf nyarchtour.flatpak
-rm -rf catgirldownloader.flatpak
 rm -rf nyarchcustomize.flatpak
 rm -rf nyarchtour.flatpak
 rm -rf wizard.flatpak
 rm -rf nyarchscript.flatpak
-rm -rf waifudownloader.flatpak
-rm -rf nyarchassistant.flatpak
 
 wget https://github.com/nyarchlinux/nyarchtour/releases/latest/download/nyarchtour.flatpak
 wget https://github.com/nyarchlinux/nyarchwizard/releases/latest/download/wizard.flatpak
@@ -29,9 +26,6 @@ wget https://github.com/nyarchlinux/waifudownloader/releases/latest/download/wai
 wget https://github.com/nyarchlinux/nyarchassistant/releases/latest/download/nyarchassistant.flatpak
 
 flatpak install nyarchtour.flatpak
-flatpak install catgirldownloader.flatpak
 flatpak install nyarchcustomize.flatpak
 flatpak install wizard.flatpak
 flatpak install nyarchscript.flatpak
-flatpak install waifudownloader.flatpak
-flatpak install nyarchassistant.flatpak
